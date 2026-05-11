@@ -1,1 +1,15 @@
-# actionlint
+# raven-actions/actionlint
+
+✅ Run actionlint for validating your GitHub Actions workflow files.
+
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/raven-actions/actionlint](https://github.com/raven-actions/actionlint).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.1.2 | [`v2.1.2`](https://github.com/chainguard-actions/actionlint/tree/v2.1.2) | — |
+
+## Privacy
+
+This Action contacts Chainguard's licensing server to verify authorization. Connection metadata (IP address, GitHub repository identifier, timestamp, and any metadata encoded in the auth token) is transmitted to Chainguard, Inc. even if authorization is denied in accordance with our [Privacy Notice](https://www.chainguard.dev/legal/privacy-notice)
