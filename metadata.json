@@ -1,7 +1,0 @@
-{
-  "owner": "raven-actions",
-  "name": "actionlint",
-  "visibility": "public",
-  "description": "✅ Run actionlint for validating your GitHub Actions workflow files.",
-  "block_publish": false
-}
