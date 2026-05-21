@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v2.1.2 | [`v2.1.2`](https://github.com/chainguard-actions/actionlint/tree/v2.1.2) | — |
+| v2.1.2 | [`v2.1.2`](https://github.com/chainguard-actions/raven-actions--actionlint/tree/v2.1.2) | — |
 
 ## Privacy
 
